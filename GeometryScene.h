@@ -21,6 +21,7 @@
 
 #include "ui_labelProps.h"
 #include <QtGui>
+#include <QMessageBox>
 
 class GeometryScene : public TreeItem {
 //     Q_OBJECT

@@ -23,6 +23,7 @@ COININCLUDE = $$system(coin-config --includedir)
 CONFIG += qt
 CONFIG += debug
 QT += opengl
+QT += widgets
 
 INCLUDEPATH += $${QUARTERDIR}/include
 INCLUDEPATH += $${QUARTERDIR}/include/Quarter/

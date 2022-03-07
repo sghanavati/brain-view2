@@ -48,7 +48,7 @@
 //#include <QVariant>
 //#include <QVector>
 #include <QtGui>
-
+#include <QColorDialog>
 #include "BrainQuarter.h"
 #include "ResourceForm.h"
 

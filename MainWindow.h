@@ -6,7 +6,10 @@
  */
 
 #include <QtGui>
-
+#include <QDockWidget>
+#include <QFileDialog>
+#include <QtWidgets>
+#include <QColorDialog>
 #include <Quarter/QuarterWidget.h>
 #include <QActionGroup>
 #include <QKeySequence>
